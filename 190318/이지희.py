@@ -1,6 +1,6 @@
 def ramp(n,i,N,r,t):
     if i == N-1:
-        return n
+        return 1
     if n[i] == n[i+1]:
         # print(n[i])
         return ramp(n,i+1,N,r,t+1)
@@ -20,9 +20,7 @@ def ramp(n,i,N,r,t):
             if k < r:
                 return 0
             else:
-                return ramp(n,i+k-1,N,r,1)
-
-
+                return ramp(n,i+k-1,N,r,k-r)
 
 import sys
 sys.stdin = open('input.txt','r')
@@ -38,6 +36,6 @@ for tc in range(1,T+1):
             c.append(num[j][i])
         num.append(c)
     for n in num:
-    # n = [3,3,3,3,3,3]
-        print(ramp(n,0,N,r,1))
+        cnt += ramp(n,0,N,r,1)
+    print(cnt)
 

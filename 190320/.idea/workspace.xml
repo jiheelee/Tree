@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e430df3-da5e-4dbe-882f-433669ffaff9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ㅇ/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ㅇ/ㅇ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알고리즘.py" afterDir="false" />
+    <list default="true" id="78e04515-67c5-4aa7-a6b2-0ca937ea44d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../190319/ㅇ/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../190319/ㅇ/ㅇ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../190319/알고리즘.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/등산로.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/재귀.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190319/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../190319/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../190319/지뢰.py" beforeDir="false" afterPath="$PROJECT_DIR$/../190319/지뢰.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,78 +19,67 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="846259958">
+    <session id="817930220">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="4" />
-          <entry key="txt" value="2" />
+          <entry key="py" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="4" />
+          <entry key="Python" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1666" />
+          <entry key="py" value="1212" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1666" />
+          <entry key="Python" value="1212" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/지뢰.py">
+        <entry file="file://$PROJECT_DIR$/재귀.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            <state relative-caret-position="114">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <marker date="1553067108718" expanded="true" signature="12:17" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ㅇ/ㅇ.py">
+        <entry file="file://$PROJECT_DIR$/../190319/지뢰.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="-133">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Desktop/광주1반_안현상.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ㅇ/input.txt">
+        <entry file="file://$PROJECT_DIR$/등산로.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="112" selection-start-line="112" selection-end-line="112" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+            <state relative-caret-position="627">
+              <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+              <folding>
+                <marker date="1553072726904" expanded="true" signature="23:713" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -104,17 +99,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/input.txt" />
-        <option value="$PROJECT_DIR$/지뢰.py" />
-        <option value="$PROJECT_DIR$/알고리즘.py" />
-        <option value="$PROJECT_DIR$/ㅇ/input.txt" />
-        <option value="$PROJECT_DIR$/ㅇ/ㅇ.py" />
+        <option value="$PROJECT_DIR$/재귀.py" />
+        <option value="$PROJECT_DIR$/../190319/지뢰.py" />
+        <option value="$PROJECT_DIR$/등산로.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1080" />
-    <option name="width" value="847" />
+    <option name="x" value="929" />
+    <option name="width" value="998" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -123,23 +116,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="190319" type="b2602c69:ProjectViewProjectNode" />
-              <item name="190319" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="190319" type="b2602c69:ProjectViewProjectNode" />
-              <item name="190319" type="462c0819:PsiDirectoryNode" />
-              <item name="ㅇ" type="462c0819:PsiDirectoryNode" />
+              <item name="190320" type="b2602c69:ProjectViewProjectNode" />
+              <item name="190320" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -157,9 +145,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ㅇ">
-    <configuration name="지뢰" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="190319" />
+  <component name="RunManager" selected="Python.등산로">
+    <configuration name="재귀" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="190320" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -170,7 +158,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/지뢰.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/재귀.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,19 +167,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ㅇ" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="190319" />
+    <configuration name="지뢰" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="190320" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ㅇ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../190319" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../190319/지뢰.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="등산로" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="190320" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ㅇ/ㅇ.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/등산로.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,13 +210,15 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.재귀" />
       <item itemvalue="Python.지뢰" />
-      <item itemvalue="Python.ㅇ" />
+      <item itemvalue="Python.등산로" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ㅇ" />
+        <item itemvalue="Python.등산로" />
         <item itemvalue="Python.지뢰" />
+        <item itemvalue="Python.재귀" />
       </list>
     </recent_temporary>
   </component>
@@ -216,20 +227,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6e430df3-da5e-4dbe-882f-433669ffaff9" name="Default Changelist" comment="" />
-      <created>1552977542527</created>
+      <changelist id="78e04515-67c5-4aa7-a6b2-0ca937ea44d5" name="Default Changelist" comment="" />
+      <created>1553066378200</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1552977542527</updated>
+      <updated>1553066378200</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1080" y="0" width="847" height="1047" extended-state="0" />
+    <frame x="929" y="0" width="998" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.289246" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21041666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
@@ -237,10 +252,6 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -250,39 +261,32 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/알고리즘.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/지뢰.py">
+    <entry file="file://$PROJECT_DIR$/재귀.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <marker date="1553067108718" expanded="true" signature="12:17" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/input.txt">
+    <entry file="file://$PROJECT_DIR$/../190319/지뢰.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        <state relative-caret-position="-133">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ㅇ/input.txt">
+    <entry file="file://$PROJECT_DIR$/등산로.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        <state relative-caret-position="627">
+          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <folding>
+            <marker date="1553072726904" expanded="true" signature="23:713" ph="..." />
+          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ㅇ/ㅇ.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/광주1반_안현상.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

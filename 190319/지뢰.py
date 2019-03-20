@@ -1,6 +1,6 @@
 def bfs(i,j,N):
     global cnt
-    cnt += 1
+
     di = [0,-1,0,1,1,-1,-1,1]
     dj = [1,0,-1,0,1,1,-1,-1]
     q = []
@@ -14,7 +14,7 @@ def bfs(i,j,N):
             if room[si][sj] == "*":
                 check = 1
     if check == 0:
-
+        cnt += 1
         room[i][j] = 0
         while q:
             a = q.pop(0)
